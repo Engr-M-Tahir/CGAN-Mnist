@@ -1,4 +1,4 @@
-#Conditional GAN (CGAN) from Scratch on MNIST
+# Conditional GAN (CGAN) from Scratch on MNIST
 
 Project Overview
 
